@@ -10,3 +10,4 @@ Analyze with the goals of:
 - Predicting sales of four different product types: PC, Laptops, Netbooks and Smartphones 
 - Assessing the impact service reviews and customer reviews have on sales of different product types
 
+You can find the datasets in the data folder. The file labelled ***existingproductattributes2017.csv*** is the dataset with information about the current products, and is the data you will train your model and build the predictive model. The file ***newproductattributes2017.csv*** is the list of the new products, where you will apply your model to predict the sales volume.
